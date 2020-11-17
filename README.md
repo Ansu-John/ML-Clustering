@@ -1,41 +1,4 @@
-# ML-Clustering
-
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Ansu-John 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-Ansu-John
-/
-ML-Clustering
-Private
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-ML-Clustering/Resume
-@Ansu-John
-Ansu-John Create Resume
-Latest commit 2568735 now
- History
- 1 contributor
-55 lines (34 sloc)  8.43 KB
-  
-EMPLOYMENT HISTORY
+### Project: Central Data Management (CDM) 
 
 Employer: CMA CGM Group (NOL/APL), Singapore Nov 2014 to Present
 
@@ -51,6 +14,7 @@ Support CMA CGM's Central Data Management which involves the below responsibilit
 - handle ad hoc report and data analysis request.
 - co-ordinate with stakeholders, IT support teams and Testing team for CDM quarterly release or CDM integration projects
 - Support campaigns
+
 
 I have played a key role as a senior data analyst and service support lead in the CDM services, for close to two years. The CDM system, which is built on Semarchy xDM data management system, manages the entire CMA CGM enterprise system master data. It has master data for customers, vessels, locations for entire CMA CGM applications and has inbuilt data governance mechanisms. As part of this team I was involved in data analysis, report, dashboard and story generation, and management of quarterly CDM system releases. I was also involved in multiple integration projects to CDM, which involved data source identification, data mapping between the CDM and downstream application, preparing data pipeline and support to migration via ETL and verify the data from CDM to downstream application. I have collaborated with cross-functional stakeholders through discussions, questionnaires and workshops for collecting and documenting the requirements, for the data analysis and report generation activities activities. These activities vary from easy to complex, depends on the requirements and issues, and used a variety of tools and techniques.
 
@@ -75,6 +39,10 @@ Role: Data Analyst
 • Implemented solutions for data extraction from multiple data stores, data-cleansing and mining to identify, merge or delete duplicate data. • Developed tools to identify patterns from CMA and APL business partner data models, and built data correlations with CMA partner ID and APL CAP codes. • Conducted presentations to the cross functional stakeholders including business teams on the trends and actionable insights. • Enhanced the SQL queries which have been created for data optimization. • Prepared integrated views and dashboards on CMA and APL data for cross functional teams.
 
 #### Write Up
+I have played a key role as data analyst in CMA CGM integration project. The key objective was the integration of data from APL to CMA CGM after CMA CGM accquired APL. CMA CGM integration project data analyst team was responsible to analyse the various critical data from the two organizations and align and import the APL data after conversion as per CMA CGM standards and conventions to CMA systems. It also involved mapping the CMA ID in APL data to identify the 
+
+
+
 • Collaborated with business stakeholders to understand their decision-making Discussion Workshops Design To get details on the issue
 
 requirements, business questions and built reports on business metrices and key indicators. • Lead and collaborate weekly status meeting with key stakeholders and provide progress reports. document signoffs Excel questionnaire • Supported and maintained CMA CGM Central Data Management (CDM) application developed in Semarchy xDM. o Data analysis to ensure data quality o Data migration to downstream CMA CGM applications via ETL o Report generation Data extraction using complex SQLs, upload to data mart. Data pre- processing, Scrubbing, mining. SQL, ETL via SSIS / BODS, python sklearn, numpy, pandas, matplotlib, seaborn libraries, tableau To find the root cause by identifying the data anomalies To generate the reports from the datasets • Extracted data from multiple data sources using complex SQL queries, conducted data- driven analysis to provide reports and dashboards that visualize data insights for influencing business decisions. Data extraction using complex SQLs, upload to data mart. Data pre- processing, Scrubbing, mining. Come up with business insights SQL, ETL via SSIS / BODS, python sklearn, numpy, pandas, matplotlib, seaborn libraries, tableau Resolution identification • Conduct ETL operations for new applications to integrate to CDM application. • Co-ordinate with software development team for CDM releases and to setup data pipelines. Data mapping SQL, ETL via SSIS / BODS • Build prototypes on automated tools for data sanity checks and data-cleansing. SQL, python
